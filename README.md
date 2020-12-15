@@ -1,2 +1,6 @@
 # ML_projects
-Few complete ML projects with real time dataset
+## In this project, "IRIS" dataset is used.
+##### Steps
+1.  Download and install Python SciPy and get the most useful package for machine learning in Python
+2.  Load a dataset and understand it’s structure using statistical summaries and data visualization.
+3.  Create 6 machine learning models, pick the best and build confidence that the accuracy is reliable.
