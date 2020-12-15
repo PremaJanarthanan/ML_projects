@@ -1,12 +1,12 @@
 # ML_projects
 ## Table of contents
-[Link to heading](#know-your-dataset)
-[Link to heading](#installing-the-python-and-sciPy-platform)
-[Link to heading](#loading-the-dataset)
-[Link to heading](#summarizing-the-dataset)
-[Link to heading](#visualizing-the-dataset)
-[Link to heading](#evaluating-some-algorithms)
-[Link to heading](#making-some-predictions)
+[Know-Your-Dataset](#know-your-dataset) </br>
+[Installing The Python and SciPy Platform](#installing-the-python-and-sciPy-platform)</br>
+[Loading the dataset](#loading-the-dataset)</br>
+[Summarizing the dataset](#summarizing-the-dataset)</br>
+[Visualizing the dataset](#visualizing-the-dataset)</br>
+[Evaluating some algorithms](#evaluating-some-algorithms)</br>
+[Making some predictions](#making-some-predictions)</br>
 
 
 ### Know-Your-Dataset
